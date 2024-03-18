@@ -9,4 +9,7 @@ might help with the notation for mathematical expressions.
 
 $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
-\in E_1$ iff $(f(u),f(v)) \in E_2$.
+\in E_1$ iff $(f(u),f(v)) \in E_2$.<br>
+A one to one function means that for every f(x) there is a corresponding y.
+In this case, it means that since the two graphs are supposedly isomorphic, each node must map to a corresponding node $(V_1(x) \rightarrow V_2(x`))$
+
